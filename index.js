@@ -2,6 +2,7 @@
 //Hash Table => 0
 //Two pointers => 1
 //Math => 1
-//Arrays => 1
+//Arrays => 2
+
 
 
