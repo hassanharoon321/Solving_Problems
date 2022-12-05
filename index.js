@@ -1,4 +1,4 @@
-//String => 1
+//String => 2
 //Hash Table => 0
 //Two pointers => 1
 //Math => 1
